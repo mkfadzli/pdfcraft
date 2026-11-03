@@ -65,6 +65,7 @@
 > **Last reviewed:** 2026-10-25 | **Last updated:** 2026-10-25 | **Change:** minor (M10: vector printing resolves annotation rectangle coordinates; estimates unchanged)
 > **Last reviewed:** 2026-10-25 | **Last updated:** 2026-10-25 | **Change:** minor (M10: vector printing resolves annotation rectangles and appearance-state names; estimates unchanged)
 > **Last reviewed:** 2026-10-26 | **Last updated:** 2026-10-26 | **Change:** minor (M10: vector printing follows bounded annotation-value reference chains; estimates unchanged)
+> **Last reviewed:** 2026-10-28 | **Last updated:** 2026-10-28 | **Change:** minor (removed Discord and other in-app social/community link surfaces from the title bar, Home, About, Help menu, CLI and README; estimates unchanged)
 > **Last reviewed:** 2026-10-25 | **Last updated:** 2026-10-25 | **Change:** minor (M14 localization current state: Arabic logical catalog, explicit RTL label direction and mirrored stock chrome; native/browser RTL workflows unqualified. Native release Hans face via LXGW WenKai Lite; estimates unchanged)
 > **Last reviewed:** 2026-10-23 · **Last updated:** 2026-10-23 · **Change:** minor (M7, #2636 partial: pasting added text boxes and images in the engine and through `content_copy`; estimates unchanged)
 > **Last reviewed:** 2026-10-23 · **Last updated:** 2026-10-23 · **Change:** minor (M11: image optimization accounts for page-local UserUnit; estimates unchanged)
